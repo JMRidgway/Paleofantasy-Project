@@ -1,0 +1,33 @@
+site_name,name,genus,species,body_part,year_found,likely_age,minimum_age,maximum_age,discoverers,citation_group,notes
+"Olduvai, Tanzania ",OH 5,Paranthropus ,boisei,skull,1959,1.8,,,Mary Leaky,43,
+"Olduvai, Tanzania ",OH 7,Homo ,habilis,mandible,1960,1.8,,,Mary Leaky & Jonathan Leakey ,44,efossils discoverer
+"Yuanmou Basin, China",V1519,Homo ,erectus,teeth,1965,1.7,,,Qian Fang,46,
+"Koobi For a Formation, Kenya",KNM-WT 15000,Homo ,erectus,cranium,1975,1.68,1.65,1.78,Bernard Ngeneo,47,smithsonian discoverer
+"Lake Turkana, Kenya",KNM-ER 3734,Homo ,erectus,complete ,1984,1.6,,,Kamoya Kimeu,48,
+"Mojokerto City, East Java",Mojokerto 1,Homo ,erectus,cranium,1936,1.43,1.28,1.58,a workman,49,smithsonian discoverer
+"Lake Natron, Tanzania ",Peninj Mandible,Australopithecus ,boisei ,mandible,1964,,1.4,1.5,Richard Leaky ,50,
+"Olduvai, Tanzania ",OH 12,Homo ,erectus,cranium,1962,1.47,,,Margaret Leakey ,52,
+"Sierra de Atapuerca, Spain ",ATE9-1,Homo ,,mandible,2008,,1.1,1.2,Eudald Carbonell ,53,
+"Denizli, Turkey",Kocabas,Homo ,erectus ,cranium,2002,,1.1,1.3,M.C. Alçiçek,54,
+"Bouri, Middle Awash, Ethiopia",BOU-VP-2/66,Homo ,erectus,cranium ,1997,1.042,1.033,1.051,W. Henry Gilbert,55,
+"Bodo, Middle Awash, Ethiopia",BOD-BP-1/1,Homo ,heidelbergensis ,partial cranium,1981,0.64,0.5,0.7,J.D. Clark,56,
+"Mauer, Germany",Mauer 1,Homo ,heidelbergensis ,mandible,1907,,0.568,0.621,Daniel Hartmann,57,
+"Zhoukoudian, China",Pecking man,Homo ,erectus,cranium,1927,0.77,0.68,0.78,Davidson Black,58,
+"Gran Dolina, Sierra de Atapuerca, Spain",ATD6-69,Homo ,antecessor,partial cranium,1995,,0.78,0.93,Bermudez de Castro,59,discoverers unspecified but within Bermudez de Castro et al. 1997
+"Gran Dolina, Sierra de Atapuerca, Spain",ATD6-58,Homo ,antecessor,partial cranium,1995,,0.78,0.93,Bermudez de Castro et al.,59,
+"Gran Dolina, Sierra de Atapuerca, Spain",ATD6-19,Homo ,antecessor,partial cranium,1995,,0.78,0.93,Bermudez de Castro et al.,59,
+"Danakil, Eritrea",UA 31,Homo ,erectus,cranium,1995,,0.6,1.4,Ernesto Abbate,60,
+"Gruta da Aroeira, Portugal",Aroeira 3 ,Homo ,heidelbergensis ,cranium,2013,,0.39,0.436,Joao Zilhao ,61,
+"Mala Balanica, Serbia",BH-1,Homo ,heidelbergensis ,mandible,,0.4,,,,62,
+"Boxgrove, United Kingdom",Boxgrove Man,Homo ,heidelbergensis ,tibia,1993,0.5,,,Mark Roberts,63,
+"Jiefang village, Shaanxi Province, China",Dali man,Homo ,erectus,complete ,1978,,0.2583,0.267,Shuntang Liu,64,possibly Homo sapiens neanderthalensis 
+"Bloemfontein, Free State Province, South Africa",Florisbad skull,Homo ,,cranium,1932,0.259,0.224,0.294,T.F. Dreyer,66,controversal species classification
+"Longtandong, Hexian County, Anhui, China",PA 830,Homo ,erectus ,cranium,1980,0.412,0.387,0.437,,67,
+"Jebel Irhound, Morocco ",Irhound 1,Homo ,sapiens,cranium,1961,0.286,0.254,0.318,miners,68,
+"Jebel Irhound, Morocco ",Irhound 2,Homo ,sapiens,cranium,1961,0.286,0.254,0.318,miners,68,
+"Jebel Irhound, Morocco ",Irhound 3,Homo ,sapiens,mandible,1961,0.286,0.254,0.318,miners,68,
+"Jebel Irhound, Morocco ",Irhound 4,Homo ,sapiens,ilium,1961,0.286,0.254,0.318,miners,68,
+"Jebel Irhound, Morocco ",Irhound 5,Homo ,sapiens,mandible,1961,0.286,0.254,0.318,miners,68,
+"Burgos, Spain",Skull 5,Homo ,neanderthalensis ,cranium ,,,0.4,0.6,Bischoff et al.,69,discoverers unspecified but within Bischoff et al. 2002
+"Lake, Ndutu, Tanzania ",Ndutu ,Homo ,,cranium ,1973,0.4,,,A.A. Mturi,70,controversal species classification
+"Swascombe, England",Swanscombe Man,Homo ,neanderthalis,cranium,1997,,0.38,0.4,,71,

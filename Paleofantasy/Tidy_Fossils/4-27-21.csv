@@ -1,0 +1,30 @@
+site_name,name,genus,species,body_part,year_found,likely_age,minimum_age,maximum_age,discoverers,citation_group,notes
+"Steinheim, Germany ",Steinheim skull,Homo,heidelbergensis,cranium,1933,0.25,,,Karl Sigrist,73,tentative age
+"Tautavel, France",Arago 21,Homo,erectus,cranium,1971,,0.42,0.48,Marie Lumley and Henry Lumley ,74,smithsonian discoverer 
+"Ceprano, Italy",Ceprano man,Homo,heidelbergensis,cranium,1994,,0.8,0.9,Italo Biddittu,75,
+"Altamura, Italy ",Altamura man,Homo ,neanderthalensis,cranium,1993,,0.1301,0.172,CARS Speleologists ,76,
+"Peloponnese, Greece",LAO 1/S1,Homo,sapiens ,cranium,1978,0.21,0.133,0.234,Andreas Andreikos,77,
+"Peloponnese, Greece",LAO 1/S2,Homo,neanderthalensis ,cranium,1978,0.17,0.133,0.234,Andreas Andreikos,77,
+"Mugharat el Emireh, Israel",Galilee skull,Homo,heidelbergensis,cranium,1925,,0.382,0.2,Francis Turville-Petre,78,
+"Middle awash, Ethiopia",Herto man,Homo,sapiens ,cranium,1997,,0.154,0.16,Tim White,79,
+"Tamil Nadu, India",,Homo,sapiens ,cranium,2001,0.166,0.136,0.196,P. Rajendran,80,
+"Middle Awash, Ethiopia ",MAK-VP-1/2,Austalopithecus,afarensis,mandible,1990,3.4,,,White et al. ,81,unspecified amongst White et al. 1993
+"Middle Awash, Ethiopia ",MAK-VP-1/4,Austalopithecus,afarensis,teeth,1990,3.4,,,White et al. ,81,unspecified amongst White et al. 1993
+"Misliya Cave, Israel",Misliya-1,Homo,sapiens ,mandible,2002,0.187,0.177,0.194,Mina Weinstein-Evron and Israel Hershkowitz,82,
+"Ngandong, Java",Ngandong 1,Homo ,erectus,cranium,1931,,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,
+"Ngandong, Java",Ngandong 2,Homo ,erectus,cranium,1931,,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,
+"Ngandong, Java",Ngandong 3,Homo ,erectus,cranium,1931,,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,
+"Ngandong, Java",Ngandong 4,Homo ,erectus,cranium,1932,,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,
+"Ngandong, Java",Ngandong 5,Homo ,erectus,cranium,1932,,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,
+"Ngandong, Java",Ngandong 6,Homo ,erectus,cranium,1932,,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,
+"Ngandong, Java",Ngandong 7,Homo ,erectus,cranium,1933,,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,
+"Ngandong, Java",Ngandong 8,Homo ,erectus,cranium,1933,,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,
+"Ngandong, Java",Ngandong 9,Homo ,erectus,cranium,1933,,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,
+"Ngandong, Java",Ngandong 10,Homo ,erectus,cranium,1933,,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,
+"Ngandong, Java",Ngandong 11,Homo ,erectus,cranium,1933,,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,
+"Penghu, Taiwan",Penghu 1,Homo,,mandible,,,0.01,0.45,Fishermen,84,likely older than 0.190 and date not specified
+"Kibish Formation, Ethiopia ",Omo 1,Homo,sapiens,cranium,1967,0.196,0.194,0.198,Richard Leaky,85,
+"Kibish Formation, Ethiopia ",Omo 2,Homo,sapiens,cranium,1967,0.196,0.194,0.198,Richard Leaky,85,
+"Kibish Formation, Ethiopia ",Omo 3,Homo,sapiens,cranium,1967,0.196,0.194,0.198,Richard Leaky,85,
+"Aniene River Valley, Rome",Saccopastore 1,Homo,neanderthalensis ,cranium,1929,0.25,,,Mario Grazoli,86,
+"Baishiya Karst Cave, China",Xiahe mandible,Homo,neanderthalensis ,mandible,1980,0.16,,,random monk,87,

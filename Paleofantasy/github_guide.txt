@@ -1,0 +1,9 @@
+Read the attatched word document for a detailed explanation of this project.
+
+Folder & file guide:
+graphs = where graphs are stored
+non_tidy_fossil_data = where all the non-database data is stored (citation, location, etc)
+scrips = where the R code is stored
+Tidy_Fossils = where the manually filled in .csv data are stored 
+
+main_fossil = the main database 

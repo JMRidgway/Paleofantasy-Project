@@ -1,0 +1,63 @@
+library(ggmap)
+library(devtools)
+library(nominatim)
+library(tidyverse)
+library(ggridges)
+library(lubridate)
+library(httr)
+library(cowplot)
+library(janitor)
+library(repmis)
+library(readxl)
+library(rlist)
+library(RCurl)
+library(ggrepel)
+
+#Creating the main database from all the files:
+
+filenames_combine_csv <- list.files("Tidy_fossils/", pattern = "*.csv") #makes a vector that lists the tidy format fossil data files
+
+data_combine_csv.list <- NULL #create a variable to use in the following for loop
+
+for(name in seq_along(filenames_combine_csv)){
+  data_combine_csv.list[[name]] <- read.csv(paste0("Tidy_fossils/",filenames_combine_csv[name]),na.strings=c("","NA"))
+} #runs through and reads/stores the data from each file in the vector filenames_combine_csv
+
+main_fossil <- bind_rows(data_combine_csv.list) #combines all the separated data contained in data_combine_csv.list
+
+
+#Tallying number of fossils and checking for duplicates:
+
+length(unique(main_fossil$name)) #tallies how many unique fossils there are for count information
+n_occur_fossils <- data.frame(table(main_fossil$name)) #makes a dataframe of a table containing each value in name and the number of times it occurs
+main_fossil[main_fossil$name %in% n_occur$Var1[n_occur$Freq > 1],] #finds any name value that occurs more than once (i.e finds duplicates)
+
+#Number and types of fossil species:
+species_main_fossil <- read.csv("main_fossil.csv", header = TRUE)
+species_main_fossil2 <- unite(species_main_fossil, "genus_species", c("genus", "species"), sep = " ", remove = FALSE)
+n_occur_genus_species <- data.frame(table(species_main_fossil2$genus_species))
+names(n_occur_genus_species)[names(n_occur_genus_species) == "Var1"] <- "Taxonomy"
+names(n_occur_genus_species)[names(n_occur_genus_species) == "Freq"] <- "Frequency"
+
+p <- ggplot(data=n_occur_genus_species, aes(x=Frequency, y=Taxonomy)) +
+     geom_bar(stat="identity")
+
+ggsave(p, file = "species_diversity_plots.jpg", dpi = 500, height = 20, width = 10)
+
+length(unique(species_main_fossil2$genus_species))
+
+#fix spacing issues with fossil species:
+species_main_fossil2[species_main_fossil2$genus_species == "Homo  NA", "genus_species"] <- "Homo NA"
+species_main_fossil2[species_main_fossil2$genus_species == "Paranthropus  robustus ", "genus_species"] <- "Paranthropus robustus "
+species_main_fossil2[species_main_fossil2$genus_species == "Homo sapiens ", "genus_species"] <- "Homo sapiens"
+species_main_fossil2[species_main_fossil2$genus_species == "Homo  sapiens", "genus_species"] <- "Homo sapiens"
+species_main_fossil2[species_main_fossil2$genus_species == "Homo neanderthalensis ", "genus_species"] <- "Homo neanderthalensis"
+species_main_fossil2[species_main_fossil2$genus_species == "Homo  neanderthalensis ", "genus_species"] <- "Homo neanderthalensis"
+species_main_fossil2[species_main_fossil2$genus_species == "Homo  neanderthalensis", "genus_species"] <- "Homo neanderthalensis"
+species_main_fossil2[species_main_fossil2$genus_species == "Homo  neanderthalis", "genus_species"] <- "Homo neanderthalensis"
+species_main_fossil2[species_main_fossil2$genus_species == "Homo  erectus", "genus_species"] <- "Homo erectus"
+
+write.csv(species_main_fossil2, file = "main_fossil.csv") #saves the main database with fixed spacing and naming
+
+#Number of papers
+length(unique(citation_list$citation))

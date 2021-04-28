@@ -1,0 +1,177 @@
+,site_name,name,genus_species,genus,species,body_part,year_found,likely_age,minimum_age,maximum_age,discoverers,citation_group,notes,lon,lat
+1,"Pyrgos Vasilissis Amalia, Athens, Greece",type specimen,Graecopithecus freybergi,Graecopithecus,freybergi,mandible,1944,7.175,NA,NA,B. von Freyberg,1,name never explicitely given,23.7216315,38.0415273
+2,"Azmaka, Chirpan, Bulgaria",RIM 438/387,Graecopithecus freybergi,Graecopithecus,freybergi,teeth ,2010,7.24,NA,NA,"N. Spassov, D. Geraads, L. Hristova, G.N. Markov, G. Merceron, T. Tzankov , K. Stoyanov, M. Böhme, A. Dimitrova",2,NA,25.3248541,42.2020702
+3,"Djurab Desert, Chad",TM 266-01-060-1,Orrorin  tugenensis,Orrorin ,tugenensis,cranium,2001,NA,6,7,"Michel Brunet, Alain Beauvilain, Fanone Gongdibe, Mahamat Adoum and Ahounta Djimdoumalbaye",3,NA,18.9996897,15.0020708
+4,"Djurab Desert, Chad",TM 266-01-060-2,Orrorin  tugenensis,Orrorin ,tugenensis,mandible,2001,NA,6,7,"Michel Brunet, Alain Beauvilain, Fanone Gongdibe, Mahamat Adoum and Ahounta Djimdoumalbaye",3,NA,18.9996897,15.0020708
+5,"Djurab Desert, Chad",TM 266-01-447,Orrorin  tugenensis,Orrorin ,tugenensis,teeth ,2001,NA,6,7,"Michel Brunet, Alain Beauvilain, Fanone Gongdibe, Mahamat Adoum and Ahounta Djimdoumalbaye",3,NA,18.9996897,15.0020708
+6,"Djurab Desert, Chad",TM 266-01-448,Orrorin  tugenensis,Orrorin ,tugenensis,teeth ,2001,NA,6,7,"Michel Brunet, Alain Beauvilain, Fanone Gongdibe, Mahamat Adoum and Ahounta Djimdoumalbaye",3,NA,18.9996897,15.0020708
+7,"Djurab Desert, Chad",TM 266-02-154-1,Orrorin  tugenensis,Orrorin ,tugenensis,mandible,2002,NA,6,7,"Michel Brunet, Alain Beauvilain, Fanone Gongdibe, Mahamat Adoum and Ahounta Djimdoumalbaye",3,NA,18.9996897,15.0020708
+8,"Djurab Desert, Chad",TM 266-02-154-2,Orrorin  tugenensis,Orrorin ,tugenensis,teeth ,2002,NA,6,7,"Michel Brunet, Alain Beauvilain, Fanone Gongdibe, Mahamat Adoum and Ahounta Djimdoumalbaye",3,NA,18.9996897,15.0020708
+9,"middle awash, ethiopia",AME-VP-1/71,Ardipithicus kadabba,Ardipithicus,kadabba,foot,1999,NA,5.2,5.8,L. Hlusko,4,NA,39.9997991,9.9999553
+10,"middle awash, ethiopia",ALA-VP-2/10,Ardipithicus kadabba,Ardipithicus,kadabba,mandible,1997,NA,5.2,5.8,Yohannes Haile-Selassie,4,NA,39.9997991,9.9999553
+11,"middle awash, ethiopia",ALA-VP-2/11,Ardipithicus kadabba,Ardipithicus,kadabba,hand,1997,NA,5.2,5.8,S. Eschete,4,NA,39.9997991,9.9999553
+12,"middle awash, ethiopia",ALA-VP-2/101,Ardipithicus kadabba,Ardipithicus,kadabba,humerous and ulna,1999,NA,5.2,5.8,T. White,4,NA,39.9997991,9.9999553
+13,"middle awash, ethiopia",ASK-VP-3/78,Ardipithicus kadabba,Ardipithicus,kadabba,humerous,1998,NA,5.2,5.8,Yohannes Haile-Selassie,4,NA,39.9997991,9.9999553
+14,"middle awash, ethiopia",ASK-VP-3/160,Ardipithicus kadabba,Ardipithicus,kadabba,teeth ,2001,NA,5.2,5.8,Yohannes Haile-Selassie group,4,NA,39.9997991,9.9999553
+15,"middle awash, ethiopia",DID-VP-1/80,Ardipithicus kadabba,Ardipithicus,kadabba,hand,1998,NA,5.2,5.8,M. Humed,4,NA,39.9997991,9.9999553
+16,"middle awash, ethiopia",STD-VP-2/61,Ardipithicus kadabba,Ardipithicus,kadabba,teeth ,1998,NA,5.2,5.8,Yohannes Haile-Selassie,4,NA,39.9997991,9.9999553
+17,"middle awash, ethiopia",STD-VP-2/62,Ardipithicus kadabba,Ardipithicus,kadabba,teeth ,1998,NA,5.2,5.8,Yohannes Haile-Selassie ,4,NA,39.9997991,9.9999553
+18,"middle awash, ethiopia",STD-VP-2/63,Ardipithicus kadabba,Ardipithicus,kadabba,teeth ,1998,NA,5.2,5.8,Yohannes Haile-Selassie group,4,NA,39.9997991,9.9999553
+19,"middle awash, ethiopia",STD-VP-2/893,Ardipithicus kadabba,Ardipithicus,kadabba,clavicle,1998,NA,5.2,5.8,Yohannes Haile-Selassie,4,NA,39.9997991,9.9999553
+20,"Lake Turkana, Kenya",KNM-LT 329,Australopithecus anamensis,Australopithecus,anamensis,mandible,1967,NA,5.2,4.2,"Arnold Lewis, Bryan Patterson",6,NA,36.0022946,3.6267946
+21,"Allia Bay, Kenya",KNM-ER 30731,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1995,NA,4.07,4.17,excavators,9,NA,36.0022946,3.6267946
+22,"Allia Bay, Kenya",KNM-ER 30744,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,excavators,9,NA,36.0022946,3.6267946
+23,"Allia Bay, Kenya",KNM-ER 30745,Australopithecus anamensis,Australopithecus,anamensis,maxilla,1996,NA,4.07,4.17,excavators,9,NA,36.0022946,3.6267946
+24,"Allia Bay, Kenya",KNM-ER 30750,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,excavators,9,NA,36.0022946,3.6267946
+25,"Allia Bay, Kenya",KNM-ER 35228,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,excavators,9,NA,36.0022946,3.6267946
+26,"Allia Bay, Kenya",KNM-ER 35231,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,excavators,9,NA,36.0022946,3.6267946
+27,"Allia Bay, Kenya",KNM-ER 35232,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,excavators,9,NA,36.0022946,3.6267946
+28,"Allia Bay, Kenya",KNM-ER 35233,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,excavators,9,NA,36.0022946,3.6267946
+29,"Allia Bay, Kenya",KNM-ER 35235,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,excavators,9,NA,36.0022946,3.6267946
+30,"Allia Bay, Kenya",KNM-ER 35236,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,excavators,9,NA,36.0022946,3.6267946
+31,"Allia Bay, Kenya",KNM-ER 35238,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,excavators,9,NA,36.0022946,3.6267946
+32,"Kanapoi, Kenya",KNM-KP 29283,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,excavators,9,NA,34.6531907,1.0637125
+33,"Kanapoi, Kenya",KNM-KP 29287,Australopithecus anamensis,Australopithecus,anamensis,mandible,1994,NA,4.07,4.17,M. Leakey,9,NA,34.6531907,1.0637125
+34,"Kanapoi, Kenya",KNM-KP 30498,Australopithecus anamensis,Australopithecus,anamensis,maxilla,1995,NA,4.07,4.17,S. Ngui,9,NA,34.6531907,1.0637125
+35,"Kanapoi, Kenya",KNM-KP 30500,Australopithecus anamensis,Australopithecus,anamensis,mandible,1995,NA,4.07,4.17,K. Cheboi,9,NA,34.6531907,1.0637125
+36,"Kanapoi, Kenya",KNM-KP 30503,Australopithecus anamensis,Australopithecus,anamensis,mandible,1995,NA,4.07,4.17,W. Mangao,9,NA,34.6531907,1.0637125
+37,"Kanapoi, Kenya",KNM-KP 31712,Australopithecus anamensis,Australopithecus,anamensis,mandible,1996,NA,4.07,4.17,P. Nzube,9,NA,34.6531907,1.0637125
+38,"Kanapoi, Kenya",KNM-KP 31713,Australopithecus anamensis,Australopithecus,anamensis,mandible,1996,NA,4.07,4.17,W. Mangao,9,NA,34.6531907,1.0637125
+39,"Kanapoi, Kenya",KNM-KP 31714,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,P. Nzube,9,NA,34.6531907,1.0637125
+40,"Kanapoi, Kenya",KNM-KP 31717,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,P. Nzube,9,NA,34.6531907,1.0637125
+41,"Kanapoi, Kenya",KNM-KP 31718,Australopithecus anamensis,Australopithecus,anamensis,mandible,1996,NA,4.07,4.17,W. Mangao,9,NA,34.6531907,1.0637125
+42,"Kanapoi, Kenya",KNM-KP 31723,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,L. Moru,9,NA,34.6531907,1.0637125
+43,"Kanapoi, Kenya",KNM-KP 31724,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,F. Shrenk,9,NA,34.6531907,1.0637125
+44,"Kanapoi, Kenya",KNM-KP 31726,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,P. Nzube,9,NA,34.6531907,1.0637125
+45,"Kanapoi, Kenya",KNM-KP 31727,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,K. Kimeu,9,NA,34.6531907,1.0637125
+46,"Kanapoi, Kenya",KNM-KP 31728,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,W. Mangao,9,NA,34.6531907,1.0637125
+47,"Kanapoi, Kenya",KNM-KP 31729,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,W. Mangao,9,NA,34.6531907,1.0637125
+48,"Kanapoi, Kenya",KNM-KP 31730,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,N. Ewalan,9,NA,34.6531907,1.0637125
+49,"Kanapoi, Kenya",KNM-KP 34725,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1996,NA,4.07,4.17,M. Muoka,9,NA,34.6531907,1.0637125
+50,"Kanapoi, Kenya",KNM-KP 35858,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,P. Nzube,9,NA,34.6531907,1.0637125
+51,"Kanapoi, Kenya",KNM-KP 35839,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,W. Mutwiwa,9,NA,34.6531907,1.0637125
+52,"Kanapoi, Kenya",KNM-KP 35842,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,"W. Mangao, sievers",9,NA,34.6531907,1.0637125
+53,"Kanapoi, Kenya",KNM-KP 35843,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,"W. Mangao, sievers",9,NA,34.6531907,1.0637125
+54,"Kanapoi, Kenya",KNM-KP 35847,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,"W. Mangao, sievers",9,NA,34.6531907,1.0637125
+55,"Kanapoi, Kenya",KNM-KP 35852,Australopithecus anamensis,Australopithecus,anamensis,teeth ,1997,NA,4.07,4.17,M. Eregai,9,NA,34.6531907,1.0637125
+56,"Kanapoi, Kenya",KNM-KP 271,Australopithecus anamensis,Australopithecus,anamensis,humerus,1965,NA,4.07,4.17,Bryan Patterson,8,NA,34.6531907,1.0637125
+57,"Lake Baringo, Kenya",KNM?TH 13150,Australopithecus anamensis,Australopithecus,anamensis,mandible,1984,NA,4.96,5.25,Kiptalam Cheboi,7,NA,36.0567202,0.6320551
+58,"Woranso-Mille, Ethiopia",KSD-VP-1/1,Australopithecus afarensis ,Australopithecus,afarensis ,postcranium,2005,NA,3.58,3.6,Alemayehu Asfaw,10,NA,-81.6128836,41.511524
+59,"Laetoli, Tanzaia ",LH 1,Australopithecus afarensis ,Australopithecus,afarensis ,teeth,1974,NA,3.59,3.77,M. Muoka,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+60,"Laetoli, Tanzaia ",LH 2,Australopithecus afarensis ,Australopithecus,afarensis ,teeth and mandible,1974,NA,3.59,3.77,M. Muluila,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+61,"Laetoli, Tanzaia ",LH 3,Australopithecus afarensis ,Australopithecus,afarensis ,teeth,1974,NA,3.59,3.77,M. Muoka,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+62,"Laetoli, Tanzaia ",LH 4,Australopithecus afarensis ,Australopithecus,afarensis ,teeth and mandible,1974,NA,3.59,3.77,M. Muluila,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+63,"Laetoli, Tanzaia ",LH 5,Australopithecus afarensis ,Australopithecus,afarensis ,teeth,1974,NA,3.59,3.77,M. Muluila,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+64,"Laetoli, Tanzaia ",LH 6,Australopithecus afarensis ,Australopithecus,afarensis ,teeth,1974,NA,3.59,3.77,M. Muoka,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+65,"Laetoli, Tanzaia ",LH 7,Australopithecus afarensis ,Australopithecus,afarensis ,teeth,1974,NA,3.59,3.77,M. Muoka,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+66,"Laetoli, Tanzaia ",LH 8,Australopithecus afarensis ,Australopithecus,afarensis ,teeth,1974,NA,3.59,3.77,E. Kandindi,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+67,"Laetoli, Tanzaia ",LH 10,Australopithecus afarensis ,Australopithecus,afarensis ,mandible and teeth,1974,NA,3.59,3.77,E. Kandindi,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+68,"Laetoli, Tanzaia ",LH 11,Australopithecus afarensis ,Australopithecus,afarensis ,teeth,1974,NA,3.59,3.77,E. Kandindi,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+69,"Laetoli, Tanzaia ",LH 12,Australopithecus afarensis ,Australopithecus,afarensis ,teeth,1974,NA,3.59,3.77,E. Kandindi,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+70,"Laetoli, Tanzaia ",LH 13,Australopithecus afarensis ,Australopithecus,afarensis ,mandible,1974,NA,3.59,3.77,M. Jackers,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+71,"Laetoli, Tanzaia ",LH 14,Australopithecus afarensis ,Australopithecus,afarensis ,teeth,1974,NA,3.59,3.77,E. Kandindi ,11,some discovered in 1975 but unclear which,35.7516069,-6.162959
+72,"Koro Toro, Chad",KT-12,Australopithecus bahreighazali,Australopithecus,bahreighazali,teeth and mandible,1993,NA,3,3.5,Michel Brunet,12,NA,18.4788045,16.0766425
+73,"Lake Turkana, Kenya",KNM-WT 4000,Kenyanthropus platyops,Kenyanthropus,platyops,cranium,1999,NA,3.3,3.6,Justus Erus,13,NA,36.0022946,3.6267946
+74,"Kikika, Ethiopia ",Dik-1,Australopithecus afarensis ,Australopithecus,afarensis ,cranium,2000,NA,3.31,3.35,Zeresenay Alemseged,14,excavated from 2000-2003,-117.9294061,33.8707936
+75,"Sterkfontein, South Africa",StW 573,Australopithecus  prometheus,Australopithecus, prometheus,complete,1997,3.67,2.2,3.67,Ronald J. Clark,15,newer studies indicate higher ages around 3.67,29.6006511,-25.0468118
+76,"Hadar formation, Ethiopia ",AL-288-1,Australopithecus afarensis ,Australopithecus,afarensis ,complete,1974,NA,3.18,3.2,Tom Gray and Donald Johnson,16,NA,-77.0260654,38.8912662
+77,"Woranso-Mille, Ethiopia",BRT-VP-1/1,Australopithecus deyiremeda,Australopithecus,deyiremeda,teeth,2006,NA,3.3,3.5,K. Helem,17,NA,-81.6128836,41.511524
+78,"Woranso-Mille, Ethiopia",BRT-VP-1/2,Australopithecus NA,Australopithecus,NA,teeth,2006,NA,3.3,3.5,K. Helem,17,data extracted as a part of another with no species classfication,-81.6128836,41.511524
+79,"Woranso-Mille, Ethiopia",BRT-VP-1/13,Australopithecus NA,Australopithecus,NA,teeth,2006,NA,3.3,3.5,C. Mesfin,17,data extracted as a part of another with no species classfication,-81.6128836,41.511524
+80,"Woranso-Mille, Ethiopia",BRT-VP-1/18,Australopithecus NA,Australopithecus,NA,teeth,2006,NA,3.3,3.5,K. Kayranto,17,data extracted as a part of another with no species classfication,-81.6128836,41.511524
+81,"Woranso-Mille, Ethiopia",BRT-VP-1/118,Australopithecus NA,Australopithecus,NA,teeth,2012,NA,3.3,3.5,G. Alemayehu,17,data extracted as a part of another with no species classfication,-81.6128836,41.511524
+82,"Woranso-Mille, Ethiopia",BRT-VP-1/120,Australopithecus NA,Australopithecus,NA,teeth,2012,NA,3.3,3.5,A. Elema,17,data extracted as a part of another with no species classfication,-81.6128836,41.511524
+83,"Woranso-Mille, Ethiopia",BRT-VP-2/10,Australopithecus NA,Australopithecus,NA,teeth,2006,NA,3.3,3.5,Y. Haile-Selassie,17,data extracted as a part of another with no species classfication,-81.6128836,41.511524
+84,"Woranso-Mille, Ethiopia",BRT-VP-2/73,Australopithecus afarensis ,Australopithecus,afarensis ,teeth,2009,NA,3.3,3.5,S. Melilo,17,NA,-81.6128836,41.511524
+85,"Woranso-Mille, Ethiopia",BRT-VP-2/89,Australopithecus NA,Australopithecus,NA,foot,2012,NA,3.3,3.5,H. Gebreyesus,17,data extracted as a part of another with no species classfication,-81.6128836,41.511524
+86,"Woranso-Mille, Ethiopia",BRT-VP-2/104,Australopithecus NA,Australopithecus,NA,teeth,2013,NA,3.3,3.5,M. Mekomeli,17,data extracted as a part of another with no species classfication,-81.6128836,41.511524
+87,"Woranso-Mille, Ethiopia",BRT-VP-3/1,Australopithecus deyiremeda,Australopithecus,deyiremeda,teeth,2011,NA,3.3,3.5,M. Baro,17,NA,-81.6128836,41.511524
+88,"Woranso-Mille, Ethiopia",BRT-VP-3/14,Australopithecus deyiremeda,Australopithecus,deyiremeda,mandble and teeth,2011,NA,3.3,3.5,A. Asfaw,17,NA,-81.6128836,41.511524
+89,"Woranso-Mille, Ethiopia",BRT-VP-3/37,Australopithecus deyiremeda,Australopithecus,deyiremeda,teeth,2013,NA,3.3,3.5,A. Asfaw,17,NA,-81.6128836,41.511524
+90,"Woranso-Mille, Ethiopia",WYT-VP-2/10,Australopithecus deyiremeda,Australopithecus,deyiremeda,mandible,2011,NA,3.3,3.5,A. Asfaw,17,NA,-81.6128836,41.511524
+91,"Hadar formation, Ethiopia ",AL 444-2,Australopithecus afarensis ,Australopithecus,afarensis ,cranium,1992,3,NA,NA,Yoel Rak,18,collection date estimated from publication date and statement that it was found after 1990 ,-77.0260654,38.8912662
+92,"Sterkfontein, South Africa",STS 5,Australopithecus afarensis ,Australopithecus,afarensis ,cranium,1947,NA,2.05,2.16,Robert Broom and John Robinson,19,NA,29.6006511,-25.0468118
+93,"Sterkfontein, South Africa",STS 14,Australopithecus afarensis ,Australopithecus,afarensis ,postcranium,1947,NA,2.05,2.16,NA,20,suggested to be same individual as STS 5,29.6006511,-25.0468118
+94,"Ledi-Geraru, Afar, Ethiopia",LD 350-1,Homo NA,Homo ,NA,mandible and teeth,2013,2.775,2.75,2.8,Chalachew Seyoum,21,Species not discernable,40.958688,11.7559388
+95,"Taung, South Africa",Taung child ,Australopithecus africanus,Australopithecus,africanus,cranium,1924,2.3,NA,NA,Raymond Dart,22,NA,24.7662356,-27.5518206
+96,"Middle Awash, Ethipoia ",Bou-VP-12/130,Australopithecus garhi,Australopithecus,garhi,cranium,1996,2.5,NA,NA,Y. Haile-Selassie,23,NA,39.9997991,9.9999553
+97,"Sterkfontein, South Africa",Sts 71,Australopithecus africanus,Australopithecus,africanus,cranium,1947,NA,2.6,2.8,Robert Broom and John Robinson,24,NA,29.6006511,-25.0468118
+98,"Drimolen Main Quarry, South Africa",DNH 134,Homo  erectus ,Homo ,erectus ,cranium,2017,2.04,NA,NA,Andy Herries ,25,excavation from 2015 - 2018,-25.97124,27.79194
+99,"Drimolen Main Quarry, South Africa",DNH 152,Paranthropus robustus ,Paranthropus ,robustus ,cranium,2017,1.95,NA,NA,Andy Herries ,26,NA,-25.97124,27.79194
+100,"Drimolen Main Quarry, South Africa",DNH 7 ,Paranthropus robustus ,Paranthropus ,robustus ,cranium,1994,NA,1.95,2.04,Andre Keyser,28,NA,-25.97124,27.79194
+101,Malawi Rift,UR 501,Homo  rudolfensis ,Homo ,rudolfensis ,mandible,NA,2.4,NA,NA,NA,27,couldn’t get solid date of discovery or discoverer,-73.9090525,41.0035658
+102,"Kromdraasi, South Africa",TM 1517,Paranthropus robustus ,Paranthropus,robustus ,partial cranium ,1938,1.9,1.77,1.95,Robert Broom and Gert Terblanche,31,NA,29.4788643,-24.8256341
+103,"Malapa, South Africa",MH1,Australopithecus  sediba,Australopithecus ,sediba,cranium,2008,1.977,1.78,1.95,Matthew Berger ,32,NA,29.4589376,-23.9875465
+104,"East Rudolf, Kenya",KNM-ER 1470,Homo rudolfensis ,Homo,rudolfensis ,cranium ,1972,1.9,NA,NA,NA,33,NA,36.0022946,3.6267946
+105,"East Rudolf, Kenya",KNM-ER 1472,Homo rudolfensis ,Homo,rudolfensis ,femur,1972,NA,2.6,2.9,NA,33,NA,36.0022946,3.6267946
+106,"East Rudolf, Kenya",KNM-ER 1475,Homo rudolfensis ,Homo,rudolfensis ,femur,1972,NA,2.6,2.9,NA,33,NA,36.0022946,3.6267946
+107,"East Turkana, Kenya",KNM-ER 1813,Homo  habilis,Homo ,habilis,cranium,1973,1.86,1.78,1.94,Kamoyai Kimeau ,34,NA,36.0022946,3.6267946
+108,"Olduvai Gorge, Tanzania ",OH 8,Homo  habilis,Homo ,habilis,feet,1960,1.7,NA,NA,Louis Leaky,35,NA,35.3534836,-2.9890143
+109,"Dmanisi, Georgia",D 2700,Homo erectus,Homo,erectus,cranium,2001,1.81,1.77,1.85,David Lordkipanidze ,36,NA,44.2073125,41.3298054
+110,"Dmanisi, Georgia",D 3444,Homo erectus,Homo,erectus,cranium,2002,1.81,1.77,1.85,David Lordkipanidze ,36,NA,44.2073125,41.3298054
+111,"Dmanisi, Georgia",D 2280,Homo erectus,Homo,erectus,partial cranium ,1999,1.81,1.77,1.85,David Lordkipanidze ,36,NA,44.2073125,41.3298054
+112,"East Rudolf, Kenya",KNM-ER 1805,Homo habilis,Homo,habilis,partial cranium ,1973,NA,1.8,1.9,Paul Abell,45,NA,36.0022946,3.6267946
+113,"Olduvai Gorge, Tanzania ",OH 24,Homo habilis,Homo,habilis,cranium,1968,1.8,NA,NA,Peter Nzube ,41,NA,35.3534836,-2.9890143
+114,"Koobie Fora, Kenya",KNM-ER 6203,Homo rudolfensis ,Homo,rudolfensis ,patial cranium ,NA,NA,1.91,1.95,Meave Leakey ,42,NA,36.1864411,3.9482191
+115,"Koobie Fora, Kenya",KNM-ER 6201,Homo rudolfensis ,Homo,rudolfensis ,mandible,NA,NA,1.9,1.95,Meave Leakey ,42,NA,36.1864411,3.9482191
+116,"Olduvai, Tanzania ",OH 5,Paranthropus  boisei,Paranthropus ,boisei,skull,1959,1.8,NA,NA,Mary Leaky,43,NA,35.3534836,-2.9890143
+117,"Olduvai, Tanzania ",OH 7,Homo  habilis,Homo ,habilis,mandible,1960,1.8,NA,NA,Mary Leaky & Jonathan Leakey ,44,efossils discoverer,35.3534836,-2.9890143
+118,"Yuanmou Basin, China",V1519,Homo erectus,Homo ,erectus,teeth,1965,1.7,NA,NA,Qian Fang,46,NA,102.246896,25.585176
+119,"Koobi For a Formation, Kenya",KNM-WT 15000,Homo erectus,Homo ,erectus,cranium,1975,1.68,1.65,1.78,Bernard Ngeneo,47,smithsonian discoverer,36.1864411,3.9482191
+120,"Lake Turkana, Kenya",KNM-ER 3734,Homo erectus,Homo ,erectus,complete ,1984,1.6,NA,NA,Kamoya Kimeu,48,NA,36.0022946,3.6267946
+121,"Mojokerto City, East Java",Mojokerto 1,Homo erectus,Homo ,erectus,cranium,1936,1.43,1.28,1.58,a workman,49,smithsonian discoverer,112.4401329,-7.4704747
+122,"Lake Natron, Tanzania ",Peninj Mandible,Australopithecus  boisei ,Australopithecus ,boisei ,mandible,1964,NA,1.4,1.5,Richard Leaky ,50,NA,36.0458437,-2.3435563
+123,"Olduvai, Tanzania ",OH 12,Homo erectus,Homo ,erectus,cranium,1962,1.47,NA,NA,Margaret Leakey ,52,NA,35.3534836,-2.9890143
+124,"Sierra de Atapuerca, Spain ",ATE9-1,Homo NA,Homo ,NA,mandible,2008,NA,1.1,1.2,Eudald Carbonell ,53,NA,-3.5225957,42.3662113
+125,"Denizli, Turkey",Kocabas,Homo  erectus ,Homo ,erectus ,cranium,2002,NA,1.1,1.3,M.C. Alçiçek,54,NA,29.0963328,37.7830159
+126,"Bouri, Middle Awash, Ethiopia",BOU-VP-2/66,Homo erectus,Homo ,erectus,cranium ,1997,1.042,1.033,1.051,W. Henry Gilbert,55,NA,39.9997991,9.9999553
+127,"Bodo, Middle Awash, Ethiopia",BOD-BP-1/1,Homo  heidelbergensis ,Homo ,heidelbergensis ,partial cranium,1981,0.64,0.5,0.7,J.D. Clark,56,NA,39.9997991,9.9999553
+128,"Mauer, Germany",Mauer 1,Homo  heidelbergensis ,Homo ,heidelbergensis ,mandible,1907,NA,0.568,0.621,Daniel Hartmann,57,NA,8.799045,49.3401597
+129,"Zhoukoudian, China",Pecking man,Homo erectus,Homo ,erectus,cranium,1927,0.77,0.68,0.78,Davidson Black,58,NA,115.9298599,39.6900895
+130,"Gran Dolina, Sierra de Atapuerca, Spain",ATD6-69,Homo  antecessor,Homo ,antecessor,partial cranium,1995,NA,0.78,0.93,Bermudez de Castro,59,discoverers unspecified but within Bermudez de Castro et al. 1997,-3.5225957,42.3662113
+131,"Gran Dolina, Sierra de Atapuerca, Spain",ATD6-58,Homo  antecessor,Homo ,antecessor,partial cranium,1995,NA,0.78,0.93,Bermudez de Castro et al.,59,NA,-3.5225957,42.3662113
+132,"Gran Dolina, Sierra de Atapuerca, Spain",ATD6-19,Homo  antecessor,Homo ,antecessor,partial cranium,1995,NA,0.78,0.93,Bermudez de Castro et al.,59,NA,-3.5225957,42.3662113
+133,"Danakil, Eritrea",UA 31,Homo erectus,Homo ,erectus,cranium,1995,NA,0.6,1.4,Ernesto Abbate,60,NA,41.9196471,11.8763843
+134,"Gruta da Aroeira, Portugal",Aroeira 3 ,Homo  heidelbergensis ,Homo ,heidelbergensis ,cranium,2013,NA,0.39,0.436,Joao Zilhao ,61,NA,-8.6157936,39.5057016
+135,"Mala Balanica, Serbia",BH-1,Homo  heidelbergensis ,Homo ,heidelbergensis ,mandible,NA,0.4,NA,NA,NA,62,NA,43.31567348,22.14744855
+136,"Boxgrove, United Kingdom",Boxgrove Man,Homo  heidelbergensis ,Homo ,heidelbergensis ,tibia,1993,0.5,NA,NA,Mark Roberts,63,NA,-0.7126017,50.859304
+137,"Jiefang village, Shaanxi Province, China",Dali man,Homo erectus,Homo ,erectus,complete ,1978,NA,0.2583,0.267,Shuntang Liu,64,possibly Homo sapiens neanderthalensis ,109.1880047,35.3939908
+138,"Bloemfontein, Free State Province, South Africa",Florisbad skull,Homo NA,Homo ,NA,cranium,1932,0.259,0.224,0.294,T.F. Dreyer,66,controversal species classification,26.1595761,-29.085214
+139,"Longtandong, Hexian County, Anhui, China",PA 830,Homo  erectus ,Homo ,erectus ,cranium,1980,0.412,0.387,0.437,NA,67,NA,118.353667,31.742293
+140,"Jebel Irhound, Morocco ",Irhound 1,Homo sapiens,Homo ,sapiens,cranium,1961,0.286,0.254,0.318,miners,68,NA,-8.8716667,31.88
+141,"Jebel Irhound, Morocco ",Irhound 2,Homo sapiens,Homo ,sapiens,cranium,1961,0.286,0.254,0.318,miners,68,NA,-8.8716667,31.88
+142,"Jebel Irhound, Morocco ",Irhound 3,Homo sapiens,Homo ,sapiens,mandible,1961,0.286,0.254,0.318,miners,68,NA,-8.8716667,31.88
+143,"Jebel Irhound, Morocco ",Irhound 4,Homo sapiens,Homo ,sapiens,ilium,1961,0.286,0.254,0.318,miners,68,NA,-8.8716667,31.88
+144,"Jebel Irhound, Morocco ",Irhound 5,Homo sapiens,Homo ,sapiens,mandible,1961,0.286,0.254,0.318,miners,68,NA,-8.8716667,31.88
+145,"Burgos, Spain",Skull 5,Homo neanderthalensis,Homo ,neanderthalensis ,cranium ,NA,NA,0.4,0.6,Bischoff et al.,69,discoverers unspecified but within Bischoff et al. 2002,-3.696906,42.3439925
+146,"Lake, Ndutu, Tanzania ",Ndutu ,Homo NA,Homo ,NA,cranium ,1973,0.4,NA,NA,A.A. Mturi,70,controversal species classification,34.9975057,-3.003515
+147,"Swascombe, England",Swanscombe Man,Homo neanderthalensis,Homo ,neanderthalis,cranium,1997,NA,0.38,0.4,NA,71,NA,0.3031822,51.4452254
+148,"Steinheim, Germany ",Steinheim skull,Homo heidelbergensis,Homo,heidelbergensis,cranium,1933,0.25,NA,NA,Karl Sigrist,73,tentative age,9.0863893,51.8697655
+149,"Tautavel, France",Arago 21,Homo erectus,Homo,erectus,cranium,1971,NA,0.42,0.48,Marie Lumley and Henry Lumley ,74,smithsonian discoverer ,2.745716,42.813662
+150,"Ceprano, Italy",Ceprano man,Homo heidelbergensis,Homo,heidelbergensis,cranium,1994,NA,0.8,0.9,Italo Biddittu,75,NA,13.512173,41.5443553
+151,"Altamura, Italy ",Altamura man,Homo neanderthalensis,Homo ,neanderthalensis,cranium,1993,NA,0.1301,0.172,CARS Speleologists ,76,NA,16.5527874,40.8253924
+152,"Peloponnese, Greece",LAO 1/S1,Homo sapiens,Homo,sapiens ,cranium,1978,0.21,0.133,0.234,Andreas Andreikos,77,NA,22.352222,37.349722
+153,"Peloponnese, Greece",LAO 1/S2,Homo neanderthalensis,Homo,neanderthalensis ,cranium,1978,0.17,0.133,0.234,Andreas Andreikos,77,NA,22.352222,37.349722
+154,"Mugharat el Emireh, Israel",Galilee skull,Homo heidelbergensis,Homo,heidelbergensis,cranium,1925,NA,0.382,0.2,Francis Turville-Petre,78,NA,33.15816368,35.60792247
+155,"Middle awash, Ethiopia",Herto man,Homo sapiens,Homo,sapiens ,cranium,1997,NA,0.154,0.16,Tim White,79,NA,39.9997991,9.9999553
+156,"Tamil Nadu, India",NA,Homo sapiens,Homo,sapiens ,cranium,2001,0.166,0.136,0.196,P. Rajendran,80,NA,78.6568942,11.1271225
+157,"Middle Awash, Ethiopia ",MAK-VP-1/2,Austalopithecus afarensis,Austalopithecus,afarensis,mandible,1990,3.4,NA,NA,White et al. ,81,unspecified amongst White et al. 1993,39.9997991,9.9999553
+158,"Middle Awash, Ethiopia ",MAK-VP-1/4,Austalopithecus afarensis,Austalopithecus,afarensis,teeth,1990,3.4,NA,NA,White et al. ,81,unspecified amongst White et al. 1993,39.9997991,9.9999553
+159,"Misliya Cave, Israel",Misliya-1,Homo sapiens,Homo,sapiens ,mandible,2002,0.187,0.177,0.194,Mina Weinstein-Evron and Israel Hershkowitz,82,NA,34.972117,32.74115
+160,"Ngandong, Java",Ngandong 1,Homo erectus,Homo ,erectus,cranium,1931,NA,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,NA,112.0059052,-7.0274444
+161,"Ngandong, Java",Ngandong 2,Homo erectus,Homo ,erectus,cranium,1931,NA,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,NA,112.0059052,-7.0274444
+162,"Ngandong, Java",Ngandong 3,Homo erectus,Homo ,erectus,cranium,1931,NA,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,NA,112.0059052,-7.0274444
+163,"Ngandong, Java",Ngandong 4,Homo erectus,Homo ,erectus,cranium,1932,NA,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,NA,112.0059052,-7.0274444
+164,"Ngandong, Java",Ngandong 5,Homo erectus,Homo ,erectus,cranium,1932,NA,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,NA,112.0059052,-7.0274444
+165,"Ngandong, Java",Ngandong 6,Homo erectus,Homo ,erectus,cranium,1932,NA,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,NA,112.0059052,-7.0274444
+166,"Ngandong, Java",Ngandong 7,Homo erectus,Homo ,erectus,cranium,1933,NA,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,NA,112.0059052,-7.0274444
+167,"Ngandong, Java",Ngandong 8,Homo erectus,Homo ,erectus,cranium,1933,NA,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,NA,112.0059052,-7.0274444
+168,"Ngandong, Java",Ngandong 9,Homo erectus,Homo ,erectus,cranium,1933,NA,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,NA,112.0059052,-7.0274444
+169,"Ngandong, Java",Ngandong 10,Homo erectus,Homo ,erectus,cranium,1933,NA,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,NA,112.0059052,-7.0274444
+170,"Ngandong, Java",Ngandong 11,Homo erectus,Homo ,erectus,cranium,1933,NA,0.108,0.117,"Oppenoorth, ter Haar, and von Koenigswald",83,NA,112.0059052,-7.0274444
+171,"Penghu, Taiwan",Penghu 1,Homo NA,Homo,NA,mandible,NA,NA,0.01,0.45,Fishermen,84,likely older than 0.190 and date not specified,119.5793157,23.5711899
+172,"Kibish Formation, Ethiopia ",Omo 1,Homo sapiens,Homo,sapiens,cranium,1967,0.196,0.194,0.198,Richard Leaky,85,NA,35.966607,4.8002627
+173,"Kibish Formation, Ethiopia ",Omo 2,Homo sapiens,Homo,sapiens,cranium,1967,0.196,0.194,0.198,Richard Leaky,85,NA,35.966607,4.8002627
+174,"Kibish Formation, Ethiopia ",Omo 3,Homo sapiens,Homo,sapiens,cranium,1967,0.196,0.194,0.198,Richard Leaky,85,NA,35.966607,4.8002627
+175,"Aniene River Valley, Rome",Saccopastore 1,Homo neanderthalensis,Homo,neanderthalensis ,cranium,1929,0.25,NA,NA,Mario Grazoli,86,NA,12.8250499,41.9544261
+176,"Baishiya Karst Cave, China",Xiahe mandible,Homo neanderthalensis,Homo,neanderthalensis ,mandible,1980,0.16,NA,NA,random monk,87,NA,35.4546928,102.5700005

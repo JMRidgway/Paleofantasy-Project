@@ -1,0 +1,45 @@
+site_name,name,genus,species,body_part,year_found,likely_age,minimum_age,maximum_age,discoverers,citation_group,notes
+"Woranso-Mille, Ethiopia",KSD-VP-1/1,Australopithecus,afarensis ,postcranium,2005,,3.58,3.6,Alemayehu Asfaw,10,
+"Laetoli, Tanzaia ",LH 1,Australopithecus,afarensis ,teeth,1974,,3.59,3.77,M. Muoka,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 2,Australopithecus,afarensis ,teeth and mandible,1974,,3.59,3.77,M. Muluila,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 3,Australopithecus,afarensis ,teeth,1974,,3.59,3.77,M. Muoka,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 4,Australopithecus,afarensis ,teeth and mandible,1974,,3.59,3.77,M. Muluila,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 5,Australopithecus,afarensis ,teeth,1974,,3.59,3.77,M. Muluila,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 6,Australopithecus,afarensis ,teeth,1974,,3.59,3.77,M. Muoka,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 7,Australopithecus,afarensis ,teeth,1974,,3.59,3.77,M. Muoka,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 8,Australopithecus,afarensis ,teeth,1974,,3.59,3.77,E. Kandindi,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 10,Australopithecus,afarensis ,mandible and teeth,1974,,3.59,3.77,E. Kandindi,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 11,Australopithecus,afarensis ,teeth,1974,,3.59,3.77,E. Kandindi,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 12,Australopithecus,afarensis ,teeth,1974,,3.59,3.77,E. Kandindi,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 13,Australopithecus,afarensis ,mandible,1974,,3.59,3.77,M. Jackers,11,some discovered in 1975 but unclear which
+"Laetoli, Tanzaia ",LH 14,Australopithecus,afarensis ,teeth,1974,,3.59,3.77,E. Kandindi ,11,some discovered in 1975 but unclear which
+"Koro Toro, Chad",KT-12,Australopithecus,bahreighazali,teeth and mandible,1993,,3,3.5,Michel Brunet,12,
+"Lake Turkana, Kenya",KNM-WT 4000,Kenyanthropus,platyops,cranium,1999,,3.3,3.6,Justus Erus,13,
+"Kikika, Ethiopia ",Dik-1,Australopithecus,afarensis ,cranium,2000,,3.31,3.35,Zeresenay Alemseged,14,excavated from 2000-2003
+"Sterkfontein, South Africa",StW 573,Australopithecus, prometheus,complete,1997,3.67,2.2,3.67,Ronald J. Clark,15,newer studies indicate higher ages around 3.67
+"Hadar formation, Ethiopia ",AL-288-1,Australopithecus,afarensis ,complete,1974,,3.18,3.2,Tom Gray and Donald Johnson,16,
+"Woranso-Mille, Ethiopia",BRT-VP-1/1,Australopithecus,deyiremeda,teeth,2006,,3.3,3.5,K. Helem,17,
+"Woranso-Mille, Ethiopia",BRT-VP-1/2,Australopithecus,,teeth,2006,,3.3,3.5,K. Helem,17,data extracted as a part of another with no species classfication
+"Woranso-Mille, Ethiopia",BRT-VP-1/13,Australopithecus,,teeth,2006,,3.3,3.5,C. Mesfin,17,data extracted as a part of another with no species classfication
+"Woranso-Mille, Ethiopia",BRT-VP-1/18,Australopithecus,,teeth,2006,,3.3,3.5,K. Kayranto,17,data extracted as a part of another with no species classfication
+"Woranso-Mille, Ethiopia",BRT-VP-1/118,Australopithecus,,teeth,2012,,3.3,3.5,G. Alemayehu,17,data extracted as a part of another with no species classfication
+"Woranso-Mille, Ethiopia",BRT-VP-1/120,Australopithecus,,teeth,2012,,3.3,3.5,A. Elema,17,data extracted as a part of another with no species classfication
+"Woranso-Mille, Ethiopia",BRT-VP-2/10,Australopithecus,,teeth,2006,,3.3,3.5,Y. Haile-Selassie,17,data extracted as a part of another with no species classfication
+"Woranso-Mille, Ethiopia",BRT-VP-2/73,Australopithecus,afarensis ,teeth,2009,,3.3,3.5,S. Melilo,17,
+"Woranso-Mille, Ethiopia",BRT-VP-2/89,Australopithecus,,foot,2012,,3.3,3.5,H. Gebreyesus,17,data extracted as a part of another with no species classfication
+"Woranso-Mille, Ethiopia",BRT-VP-2/104,Australopithecus,,teeth,2013,,3.3,3.5,M. Mekomeli,17,data extracted as a part of another with no species classfication
+"Woranso-Mille, Ethiopia",BRT-VP-3/1,Australopithecus,deyiremeda,teeth,2011,,3.3,3.5,M. Baro,17,
+"Woranso-Mille, Ethiopia",BRT-VP-3/14,Australopithecus,deyiremeda,mandble and teeth,2011,,3.3,3.5,A. Asfaw,17,
+"Woranso-Mille, Ethiopia",BRT-VP-3/37,Australopithecus,deyiremeda,teeth,2013,,3.3,3.5,A. Asfaw,17,
+"Woranso-Mille, Ethiopia",WYT-VP-2/10,Australopithecus,deyiremeda,mandible,2011,,3.3,3.5,A. Asfaw,17,
+"Hadar formation, Ethiopia ",AL 444-2,Australopithecus,afarensis ,cranium,1992,3,,,Yoel Rak,18,collection date estimated from publication date and statement that it was found after 1990 
+"Sterkfontein, South Africa",STS 5,Australopithecus,afarensis ,cranium,1947,,2.05,2.16,Robert Broom and John Robinson,19,
+"Sterkfontein, South Africa",STS 14,Australopithecus,afarensis ,postcranium,1947,,2.05,2.16,,20,suggested to be same individual as STS 5
+"Ledi-Geraru, Afar, Ethiopia",LD 350-1,Homo ,,mandible and teeth,2013,2.775,2.75,2.8,Chalachew Seyoum,21,Species not discernable
+"Taung, South Africa",Taung child ,Australopithecus,africanus,cranium,1924,2.3,,,Raymond Dart,22,
+"Middle Awash, Ethipoia ",Bou-VP-12/130,Australopithecus,garhi,cranium,1996,2.5,,,Y. Haile-Selassie,23,
+"Sterkfontein, South Africa",Sts 71,Australopithecus,africanus,cranium,1947,,2.6,2.8,Robert Broom and John Robinson,24,
+"Drimolen Main Quarry, South Africa",DNH 134,Homo ,erectus ,cranium,2017,2.04,,,Andy Herries ,25,excavation from 2015 - 2018
+"Drimolen Main Quarry, South Africa",DNH 152,Paranthropus ,robustus ,cranium,2017,1.95,,,Andy Herries ,26,
+"Drimolen Main Quarry, South Africa",DNH 7 ,Paranthropus ,robustus ,cranium,1994,,1.95,2.04,Andre Keyser,28,
+Malawi Rift,UR 501,Homo ,rudolfensis ,mandible,,2.4,,,,27,couldn’t get solid date of discovery or discoverer
